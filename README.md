@@ -48,6 +48,18 @@ Focus: Code reusability and modularity.
 * **Concepts**: Defining functions, parameters, arguments, and return values.
 * **Mastery**: Learned how to write DRY (Don't Repeat Yourself) code by creating modular, reusable blocks of logic.
 
+### Chapter 7: Classes and Objects
+Focus: Object-Oriented Programming (OOP).
+
+* **Concepts**: Class definitions, constructors (`__init__`), and methods.
+* **Mastery**: Understood how to model real-world entities and manage state within objects for more complex software architecture.
+### Chapter 8: Modules
+Focus: Code organization and external libraries.
+
+* **Concepts**: Importing built-in modules (`math`, `random`) and creating custom modules.
+* **Mastery**: Mastered the ability to organize large projects into multiple files and leverage powerful Python libraries.
+
+---
 ---
 
 ## Technical Setup
